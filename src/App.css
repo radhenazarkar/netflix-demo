@@ -1,0 +1,61 @@
+.nf-header {
+  padding: 16px 40px;
+  border-bottom: 1px solid #e5e5e5;
+  display: flex;
+  align-items: center;
+}
+
+.nf-header .brand-logo {
+  height: 32px;
+}
+
+.content-wrap {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+
+.header-1 {
+  font-size: 32px;
+  font-weight: 550;
+  line-height: 40px;
+}
+
+.new-arriavals-section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.new-arrivals-wrap {
+  display: flex;
+  flex-direction: row;
+  gap: 32px
+}
+
+.new-arrival-movie-item {
+  cursor: pointer;
+}
+
+.new-arrival-movie-item img {
+  width: 320px;
+  height: 320px;
+}
+
+.movie-name {
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.screen-time {
+  padding: 4px 0;
+  color: #999;
+  font-size: 13px;
+}
+
+.available-in {
+  color: #666;
+  font-size: 14px;
+}

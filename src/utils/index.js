@@ -1,0 +1,1 @@
+export const filterMoviesByLang = (lang, movies) => movies.filter(movie => movie.languages.includes(lang))
