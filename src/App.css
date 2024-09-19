@@ -59,3 +59,10 @@
   color: #666;
   font-size: 14px;
 }
+
+.nf-footer {
+  padding: 20px 40px;
+  background-color: #000;
+  color: #f9f9f9;
+  font-style: italic;
+}
